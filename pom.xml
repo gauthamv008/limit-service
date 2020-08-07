@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.gowtham.microservices</groupId>
-	<artifactId>limits-service</artifactId>
+	<artifactId>limits-service1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
